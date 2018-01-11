@@ -1,2 +1,1 @@
-# ex
-Exercices: Développeur web NodeJS/ReactJS
+# Exercices: Développeur web NodeJS/ReactJS
